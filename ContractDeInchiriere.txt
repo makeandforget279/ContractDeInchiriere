@@ -21,7 +21,7 @@ Garantia
 
 1. Se va percepe o garantie in valoare de .................... astfel:
     Suma de ................. se plateste pe loc.
-    Suma de .................  se va plati lunar pana la totalul de   ................. .
+    Suma de .................  se va plati lunar odata cu chiria pana la totalul de   ................. .
 2. La incheierea raporturilor dintre parti garantia se va plati in urmatoarele conditii:
    - Toate facturile si taxele au fost platite la zi.
    - Imobilul este predat in buna stare, fara defectiuni, asa cum a fost gasit.
@@ -57,6 +57,7 @@ Alte clauze
 2. Neplata facturilor de utilitati in termenul scadent atrage rezilierea de drept a contractului, fara notificare si fara interventia instantelor judecatoresti ori indeplinirea vreunei alte formalitati, cu consecinta retinerii de catre proprietar a garantiei achitate de catre chirias.
 3. Rezilierea se face cu acordul ambelor parti inainte de termen sau cu un preaviz de 30 de zile calendaristice. In situatia in care oricare dintre parti nu respecta aceste conditii va plati celeilate parti despagubiri in valoare de o chirie.
 4. Singura formă de comunicare valabilă și recunoscută între părți este cea realizată în scris.
+5. Platile care se fac cash sunt considerate efectuate doar cand sunt insotite de o comunicare scrisa. 
 
 
 
