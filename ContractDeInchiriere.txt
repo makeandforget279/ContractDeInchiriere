@@ -16,7 +16,7 @@ Primul in calitate de proprietar inchiriez, iar al doilea in calitate de chirias
 1. Termenul de inchiriere este pana la data de ............................, cu posibilitate de prelungire prin acordul scris al ambelor parti fara modificarea conditiilor din prezentul contract.
 2. Predarea imobilului catre chirias se va face la data de ....................................... in starea in care a fost prezentat chiriasului.
 3. Pretul chiriei va fi de ...................... si se va plati in ziua de ......... a fiecarei luni.
-4. Penalitatile pentru intarzieri vor fi  ........ % pe zi pentru fiecare zi de restanta pana cand se plateste intreaga suma datorata. 
+4. Penalitatile pentru intarzieri vor fi 1% pe zi din suma datorata, pentru fiecare zi de restanta pana cand se plateste intreaga suma datorata. 
 
 
 Garantia
